@@ -1,0 +1,1 @@
+gcc ext_stat_func.c ext_stat_main.c -o ext_stat.exe
